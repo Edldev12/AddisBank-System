@@ -49,6 +49,8 @@ The project was developed as part of a 10-day software engineering exercise focu
 ---
 
 ## 📂 Project Structure
+
+
 AddisBank-System/
 │
 ├── backend/
@@ -78,7 +80,9 @@ AddisBank-System/
 ```bash
 git clone https://github.com/Edldev12/AddisBank-System.git
 
-🎯 Learning Objectives
+
+
+## 🎯 Learning Objectives
 
 This project helped practice:
 
@@ -89,11 +93,11 @@ Implementing banking logic
 Using Git for version control
 Structuring a real-world software project
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Edlawit Tsegaye
 
 Software Engineering Student | Python Developer
 
-GitHub:
+### GitHub:
 https://github.com/Edldev12
