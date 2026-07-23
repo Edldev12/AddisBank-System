@@ -80,9 +80,9 @@ AddisBank-System/
 ```bash
 git clone https://github.com/Edldev12/AddisBank-System.git
 
-'''
+---
 
-## 🎯 Learning Objectives
+🎯 Learning Objectives
 
 This project helped practice:
 
@@ -92,7 +92,7 @@ Managing complex object relationships
 Implementing banking logic
 Using Git for version control
 Structuring a real-world software project
-
+---
  👩‍💻 Author
 
 Edlawit Tsegaye
