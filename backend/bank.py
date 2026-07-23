@@ -1,20 +1,6 @@
 from abc import ABC,abstractmethod
 from Account import SavingsAccount, CurrentAccount, Account
 
-class BankConfig:
-    _instance = None
-
-    def __new__(cls):
-        if cls._instance is None:
-            cls._instance = super().__new__(cls)
-            cls._instance.interest_rate = 0.07
-            cls._instance.overdraft_limit = 1000
-        return cls._instance
-
-
-config = BankConfig()
-
-
 class observer(ABC):
     @abstractmethod
     def update(self, accunt, message):
